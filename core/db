@@ -1,1 +1,14 @@
-Hoje eu preciso gravar aular!
+{
+  "todos": [
+    {
+      "date": "2023-07-01T14:32:30.805Z",
+      "content": "Primeira TODO",
+      "done": false
+    },
+    {
+      "date": "2023-07-01T14:32:30.807Z",
+      "content": "Segunda TODO",
+      "done": false
+    }
+  ]
+}
