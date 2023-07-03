@@ -171,7 +171,7 @@ export function GlobalStyles({ themeName }: { themeName?: ThemeName }) {
         }
 
         body {
-          fonr-family: ui-sans-serif, system-ui, --apple-system,
+          font-family: ui-sans-serif, system-ui, --apple-system,
             BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial,
             Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji,
             Segoe UI Symbol, Noto Color Emoji;
@@ -397,7 +397,7 @@ export function GlobalStyles({ themeName }: { themeName?: ThemeName }) {
           background-color: var(--color-primary-x100);
         }
 
-        // [Commom Stuff]
+        // [Common Stuff]
         .typewriter h1 {
           display: inline-block;
           overflow: hidden; /* Ensures the content is not revealed until the animation */
