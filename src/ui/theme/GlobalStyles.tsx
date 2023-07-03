@@ -316,7 +316,7 @@ export function GlobalStyles({ themeName }: { themeName?: ThemeName }) {
 
         // == [Table Reset]
         table {
-          width: 100;
+          width: 100%;
           border: 0;
           border: none;
           border-collapse: collapse;

@@ -1,16 +1,16 @@
-import { GlobalStyles } from "../src/theme/GlobalStyles";
+import { GlobalStyles } from "@ui/theme/GlobalStyles";
+
+const bg = "/bg.jpeg";
 
 function HomePage() {
   return (
     <main>
-      <GlobalStyles />
+      <GlobalStyles themeName="devsoutinho" />
 
       <header
-        style={
-          {
-            // backgroundImage = `url('$bg')`
-          }
-        }
+        style={{
+          backgroundImage: `url('${bg}')`,
+        }}
       >
         <div className="typewriter">
           <h1>O que fazer hoje?</h1>
@@ -36,6 +36,7 @@ function HomePage() {
               </th>
               <th align="left">ID</th>
               <th align="left">Conteúdo</th>
+              <th />
             </tr>
           </thead>
 
