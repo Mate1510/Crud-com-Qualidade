@@ -1,21 +1,15 @@
 {
   "todos": [
     {
-      "id": "629cfb71-932c-480f-8ff8-3db3a82e9d69",
-      "date": "2023-07-03T12:56:45.882Z",
+      "id": "63dc0011-24b5-4019-b487-b7204394c398",
+      "date": "2023-07-03T13:12:57.732Z",
       "content": "Primeira TODO",
       "done": false
     },
     {
-      "id": "86aeff2b-291c-459f-b0a6-c9694995b2ce",
-      "date": "2023-07-03T12:56:45.883Z",
-      "content": "Segunda TODO",
-      "done": false
-    },
-    {
-      "id": "c4e877fe-3a70-4b88-9fad-d3f5c05306e8",
-      "date": "2023-07-03T12:56:45.884Z",
-      "content": "Atualizada!",
+      "id": "c7c5f710-13e0-4f1f-8663-81ab656b1125",
+      "date": "2023-07-03T13:12:57.735Z",
+      "content": "Terceira TODO!",
       "done": false
     }
   ]
