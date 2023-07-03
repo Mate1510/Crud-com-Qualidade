@@ -24,6 +24,7 @@ module.exports = {
     },
     ignorePatterns: ["node_modules/"],
     rules: {
-        
-    }
+        "no-console": "error",
+        "react/no-unknown-property": ["error", { ignore: ["jsx", "global"] }],
+    },
 };
